@@ -1,0 +1,20 @@
+{
+  "Entries": [
+    {
+      "Entry ID": "1",
+      "Scope": "7041",
+      "Name": "UM_CUSTOMERORDER.DISPATCH_CUSTOMERORDER",
+      "TimeZone": "India Standard Time",
+      "Parameters": {
+        "ACUSTOMERORDERS": [
+          "3823622773",
+          "3823622774"
+        ],
+        "AROUTEORDERDEST": "151328899",
+        "ACUSTOMERORDERDEST": "3823622772",
+        "ATANDEMPAIR": [],
+        "ATANDEMUNPAIRCUSTOMERORDERS": []
+      }
+    }
+  ]
+}

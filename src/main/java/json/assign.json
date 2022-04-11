@@ -1,0 +1,66 @@
+{
+    "WSParameters xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"": {
+        "WSParameter Name=\"aQueue\"": {
+            "Name": "\"aQueue\"",
+            "Value xsi:type=\"Queue\"": {
+                "Entries": [
+                    {
+                        "Entry  ID=\"1\" Scope=\"7041\" Name=\"UM_CUSTOMERORDER.DISPATCH_CUSTOMERORDER\" TimeZone=\"India Standard Time\"": {
+                            "Parameters": {
+                                "Parameter  Name=\"ACUSTOMERORDERS\"": {
+                                    "Value": 
+                                    {
+                                        "PP_PKEY": [
+                                            {
+                                                "long": "3823622773"
+                                            },
+                                            {
+                                                "long": "3823622774"
+                                            }
+                                        ]
+                                        
+                                        
+                                    }
+                                    
+                                },
+                                "Parameter  Name=\"AROUTEORDERDEST\"": {
+                                    "Value": 
+                                    {
+                                        "long": "151328899"
+                                    }
+                                    
+                                },
+                                "Parameter Name=\"ACUSTOMERORDERDEST\"": {
+                                    "Value": 
+                                    {
+                                        "long": "3823622772"
+                                    }
+                                    
+                                },
+                                "Parameter Name=\"ATANDEMPAIR\"": {
+                                    "Value": 
+                                    {
+                                        "string": []
+                                    }
+                                    
+                                },
+                                "Parameter Name=\"ATANDEMUNPAIRCUSTOMERORDERS\"": {
+                                    "Value": 
+                                    {
+                                        "PP_PKEY": []
+                                    }
+                                    
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "WSParameter Name=\"aSysParams\"": {
+            "Value xsi:type=\"SysParams\"": {
+                "SysParam xsi:type=\"UserSession\" Status=\"A\" ID=\"mkhurd@MPINDO02PC508:16224#7002e5cc-c3d5-41b8-927a-f9bb64a53a3c\" Scope=\"7041\"": {}
+            }
+        }
+    }
+}
